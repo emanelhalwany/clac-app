@@ -1,0 +1,24 @@
+.button {
+    display: inline-block;
+    float: left;
+};
+
+.clac-button{
+
+    width: 150px;
+    height: 65px;
+    font-size: 30px;
+}
+button.clac-button {
+    width: 150px;
+    height: 65px;
+    font-size: 30px;
+    background-color: #717c6c;
+    color: #25dd91;
+    border-color: #959d9a;
+}
+/* button.clac-button.equal-button , button.clac-button.clear-button{
+    width: 225px;
+    height: 50px;
+    font-size: 30px;
+} */

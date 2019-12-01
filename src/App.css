@@ -1,5 +1,18 @@
 .App {
+    
+}
+.calculator{
+
+  background-color: #717c6c;
+  width: 450px;
+  height: 490px;
   text-align: center;
+  margin: 50px auto;
+  border-radius: 10px;
+  box-shadow: 1px 2px 4px #b8b1b1;
+  border-top-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+
 }
 
 .App-logo {
